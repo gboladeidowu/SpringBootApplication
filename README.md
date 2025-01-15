@@ -1,6 +1,6 @@
 # Week-1 Deliverable
 
-### Setting up a Spring Boot Application using a Maven build tool
+### Setting up a Spring Boot Application using the Maven build tool
 
 1. Go to [Spring Initializr](https://start.spring.io/).
 2. Configure the project:
